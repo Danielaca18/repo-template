@@ -31,4 +31,4 @@ This project is a template for creating new repositories. It includes a template
     ```
 
 ## 💼 License
-This project is licensed under the [MIT](LICENSE) open-source license.
+This project is licensed under the [MIT License](LICENSE), which is a permissive open-source license that allows you to use, modify, and distribute the code for both commercial and non-commercial purposes. You can find the full text of the license in the [LICENSE](LICENSE) file.
